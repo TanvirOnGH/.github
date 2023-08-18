@@ -1,9 +1,9 @@
 ---
 name: Question / Help
 about: Ask a question or request help
-title: '[QUESTION] '
-labels: 'question'
-assignees: ''
+title: "[QUESTION] "
+labels: "question"
+assignees: ""
 ---
 
 **Your Question:**

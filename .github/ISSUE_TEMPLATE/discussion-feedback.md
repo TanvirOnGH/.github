@@ -1,9 +1,9 @@
 ---
 name: Discussion / Feedback
 about: Start a discussion or provide feedback
-title: '[DISCUSSION] '
-labels: 'discussion'
-assignees: ''
+title: "[DISCUSSION] "
+labels: "discussion"
+assignees: ""
 ---
 
 **Topic of Discussion / Feedback:**

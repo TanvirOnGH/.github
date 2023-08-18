@@ -1,9 +1,9 @@
 ---
 name: Documentation Update
 about: Suggest a documentation update or improvement
-title: '[DOCS] '
-labels: 'documentation'
-assignees: ''
+title: "[DOCS] "
+labels: "documentation"
+assignees: ""
 ---
 
 **Is your documentation suggestion related to a specific problem? Please describe:**
