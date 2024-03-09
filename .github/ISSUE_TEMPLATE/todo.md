@@ -1,9 +1,9 @@
 ---
 name: To-Do
 about: Create a to-do item for the project
-title: '[TODO] '
-labels: 'todo'
-assignees: ''
+title: "[TODO] "
+labels: "todo"
+assignees: ""
 ---
 
 **To-Do Description:**
