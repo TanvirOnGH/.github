@@ -1,3 +1,3 @@
-## About
+# About
 
-Placeholder Repository that is used for user-wide configuration
+Placeholder Repository that is used for user-wide configuration.
